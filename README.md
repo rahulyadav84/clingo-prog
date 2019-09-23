@@ -1,3 +1,3 @@
 # clingo-prog
-Model finder
+Answer set programming.
 initial clingo work. 
